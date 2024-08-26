@@ -1,0 +1,18 @@
+[
+  {
+    "tckn": 45214039996,
+    "taxType": "Property Tax",
+    "price": 2700,
+    "taxAmount": 270,
+    "lastPaymentDate": "09/09/2024",
+    "total": 2430
+  },
+  {
+    "tckn": 11647229440,
+    "taxType": "Corporate Tax",
+    "price": 7000,
+    "taxAmount": 700,
+    "lastPaymentDate": "10/12/2024",
+    "total": 6300
+  }
+]
